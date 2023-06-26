@@ -3,10 +3,11 @@
 
 ## Lenguajes utilizados
 
-![C](https://img.shields.io/badge/C-11-blue?style=flat-square)
-![Java](https://img.shields.io/badge/Java-11-orange?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-.NET-blueviolet?style=flat-square)
-![C++](https://img.shields.io/badge/C%2B%2B-17-green?style=flat-square)
+![C](https://img.shields.io/badge/Lenguaje-C-blue?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Lenguaje-Java-orange?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/Lenguaje-C%23-blueviolet?style=for-the-badge&logo=c-sharp)
+![C++](https://img.shields.io/badge/Lenguaje-C%2B%2B-green?style=for-the-badge&logo=cplusplus)
+
 
 
 
