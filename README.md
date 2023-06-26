@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/Lenguaje-C%2B%2B-green?style=for-the-badge&logo=cplusplus)
 
 
-##Learning
+## Learning
 ![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql)
 
 
