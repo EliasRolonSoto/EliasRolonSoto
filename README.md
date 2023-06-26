@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 
+## Contador de visualizaciones
+
+![Visualizaciones](https://komarev.com/ghpvc/?username=tu_usuario&color=brightgreen)
+
+
 ## Lenguajes utilizados
 
 ![C](https://img.shields.io/badge/Lenguaje-C-blue?style=for-the-badge&logo=c)
