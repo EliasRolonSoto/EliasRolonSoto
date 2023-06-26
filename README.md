@@ -17,7 +17,7 @@
 
 
 
-## Contador de visualizaciones
+## 
 
 ![Visualizaciones](https://komarev.com/ghpvc/?username=EliasRolonSoto&color=brightgreen)
 
