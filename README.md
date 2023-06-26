@@ -17,7 +17,7 @@
 ## Learning
 ![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql)
 
-## Contacto
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/elías-rolon-soto-b40228226/)
 
 ## 
