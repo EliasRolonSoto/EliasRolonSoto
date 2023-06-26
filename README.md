@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/Lenguaje-C%2B%2B-green?style=for-the-badge&logo=cplusplus)
 
 ## Frameworks
-![.Net](https://img.shields.io/badge/Lenguaje-.Net-blueviolet?style=for-the-badge&logo=.Net)
+![.Net](https://img.shields.io/badge/FrameWork-.Net-blueviolet?style=for-the-badge&logo=.Net)
 
 ## Learning
 ![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql)
