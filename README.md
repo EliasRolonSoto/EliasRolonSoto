@@ -3,9 +3,14 @@
 <!--
 **EliasRolonSoto/EliasRolonSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-<h2 aling="center">Testing </h2>
+## Lenguajes utilizados
+
+![C](https://img.shields.io/badge/C-11-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-11-orange?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-.NET-blueviolet?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-17-green?style=flat-square)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
