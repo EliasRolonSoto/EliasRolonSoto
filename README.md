@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+## Contador de visualizaciones
+
+![Visualizaciones](https://komarev.com/ghpvc/?username=EliasRolonSoto&color=brightgreen)
 
 
 ## Lenguajes utilizados
