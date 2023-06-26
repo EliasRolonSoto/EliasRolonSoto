@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-## Contador de visualizaciones
-
-![Visualizaciones](https://komarev.com/ghpvc/?username=tu_usuario&color=brightgreen)
 
 
 ## Lenguajes utilizados
