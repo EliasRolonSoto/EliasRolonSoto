@@ -20,6 +20,10 @@
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/elías-rolon-soto-b40228226/)
 
+## Lenguages
+[![English](https://img.shields.io/badge/English-B2-yellow?style=flat-square)](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
+[![Español](https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square)](https://es.wikipedia.org/wiki/Nivel_de_idioma)
+
 ## 
 
 ![Visualizaciones](https://komarev.com/ghpvc/?username=EliasRolonSoto&color=brightgreen)
