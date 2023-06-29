@@ -28,17 +28,4 @@
 
 ![Visualizaciones](https://komarev.com/ghpvc/?username=EliasRolonSoto&color=brightgreen)
 
-##
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasRolonSoto&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
-
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasRolonSoto&show_icons=true&theme=blue-green)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=EliasRolonSoto&theme=blue-green" alt="EliasRolonSoto" />|
-|:-:|:-:|
-
-</div>
