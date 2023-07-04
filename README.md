@@ -18,7 +18,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql)
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/elias-rolon-soto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/elias-rolon-soto)
 
 ## Lenguages
 [![English](https://img.shields.io/badge/English-B2-yellow?style=flat-square)](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
