@@ -29,7 +29,7 @@
 
 <div align="center">
 
-|[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliasRolonSoto&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasRolonSoto&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)|
+|(https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasRolonSoto&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)|
 |:-:|:-:|
 
 </div>
