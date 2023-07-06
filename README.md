@@ -24,6 +24,23 @@
 [![English](https://img.shields.io/badge/English-B2-yellow?style=flat-square)](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
 [![Español](https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square)](https://es.wikipedia.org/wiki/Nivel_de_idioma)
 
+##Stats
+
+
+<div align="center">
+
+|[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliasRolonSoto&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasRolonSoto&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)|
+|:-:|:-:|
+
+</div>
+<div align="center">
+
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasRolonSoto&show_icons=true&theme=blue-green)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=EliasRolonSoto&theme=blue-green" alt="EliasRolonSoto" />|
+|:-:|:-:|
+
+</div>
+
+
 ## 
 
 ![Visualizaciones](https://komarev.com/ghpvc/?username=EliasRolonSoto&color=brightgreen)
