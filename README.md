@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/Lenguaje-Java-orange?style=for-the-badge&logo=java)
 ![C#](https://img.shields.io/badge/Lenguaje-C%23-blueviolet?style=for-the-badge&logo=c-sharp)
 ![C++](https://img.shields.io/badge/Lenguaje-C%2B%2B-green?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/Lenguaje-SQL-blue?style=for-the-badge&logo=postgresql)
 
 ## Frameworks
 ![.Net](https://img.shields.io/badge/FrameWork-.Net-blueviolet?style=for-the-badge&logo=.Net)
