@@ -1,6 +1,6 @@
-### ¡Hola! 👋 Soy Elías Rolón
+### ¡Hola! 👋 Soy Elias Rolon Soto
 
-Soy Ingeniero en Sistemas graduado de la UTN, con experiencia profesional como desarrollador .NET y consultor RPA. Trabajo actualmente desarrollando soluciones automatizadas con UiPath y también tengo experiencia liderando proyectos y capacitando a nuevos desarrolladores. Me especializo en tecnologías Microsoft, desarrollo web con ASP.NET, bases de datos relacionales, y en la implementación de soluciones eficientes que aporten valor a los procesos de negocio.
+Soy Tecnico universitario en programacion, graduado de la UTN, con experiencia profesional como desarrollador .NET y consultor RPA. Trabajo actualmente desarrollando soluciones automatizadas con UiPath y también tengo experiencia liderando proyectos y capacitando a nuevos desarrolladores. Me especializo en tecnologías como desarrollo web con ASP.NET, bases de datos relacionales, y en la implementación de soluciones eficientes que aporten valor a los procesos de negocio.
 
 ---
 
@@ -31,7 +31,7 @@ Soy Ingeniero en Sistemas graduado de la UTN, con experiencia profesional como d
 
 ## 🎓 Formación Académica
 
-📘 **Ingeniero en Sistemas de Información**  
+📘 **Tecnico Universitario en Programacion**  
 Universidad Tecnológica Nacional (UTN) – Facultad Regional Resistencia
 
 ---
