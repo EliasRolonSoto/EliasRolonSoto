@@ -9,8 +9,8 @@ Soy Tecnico universitario en programacion, graduado de la UTN, con experiencia p
 ![C#](https://img.shields.io/badge/Lenguaje-C%23-blueviolet?style=for-the-badge&logo=c-sharp)
 ![VB.NET](https://img.shields.io/badge/Lenguaje-VB.NET-lightgrey?style=for-the-badge&logo=dotnet)
 ![C++](https://img.shields.io/badge/Lenguaje-C%2B%2B-green?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Lenguaje-Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/Lenguaje-C-blue?style=for-the-badge&logo=c)
+![RPA](https://img.shields.io/badge/RPA-Automation-blueviolet?style=for-the-badge&logo=robotframework)
+![UiPath](https://img.shields.io/badge/RPA-UiPath-orange?style=for-the-badge&logo=uipath)
 ![SQL](https://img.shields.io/badge/Lenguaje-SQL-blue?style=for-the-badge&logo=postgresql)
 
 ---
