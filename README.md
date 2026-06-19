@@ -10,6 +10,7 @@ He trabajado en proyectos Nacionales en Argentina, como internacionales en la Un
 I am RPA Developer SSr and .NET Developer Jr., my focus is on developing scalable solutions and automations that solve company problems focused on user needs.
 
 I have worked on National projects in Argentina, as well as international projects in the European Union, using tools such as UiPath, SQL, Nugets Packages .NET, REST APIs, GitHub, automating up to 90% of work on key user tasks.
+
 ---
 
 ## 🛠️ Technical Skills
