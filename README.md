@@ -1,13 +1,13 @@
 ### ¡Hola! 👋 Soy Elias Rolon Soto
 
-Soy RPA Developer SSr y .NET Developer Jr., mi foco esta en desarrollar soluciones y automatizaciones escalables que resuelvan problemas de las empresas enfocados a las necesidades del usuario.
+Soy RPA Developer Semi Senior y .NET Developer Junior, mi foco esta en desarrollar soluciones y automatizaciones escalables que resuelvan problemas de las empresas enfocados a las necesidades del usuario.
 
 He trabajado en proyectos Nacionales en Argentina, como internacionales en la Unión Europea, utilizando herramientas como UiPath, SQL, Nugets Packages .NET, APIs REST, GitHub, automatizando hasta el 90% de trabajo en tareas clave de los usuarios.
 
 ---
 ### Hi! 👋 I'm Elias Rolon Soto
 
-I am RPA Developer SSr and .NET Developer Jr., my focus is on developing scalable solutions and automations that solve company problems focused on user needs.
+I am RPA Developer SemiSenior and .NET Developer Junior, my focus is on developing scalable solutions and automations that solve company problems focused on user needs.
 
 I have worked on National projects in Argentina, as well as international projects in the European Union, using tools such as UiPath, SQL, Nugets Packages .NET, REST APIs, GitHub, automating up to 90% of work on key user tasks.
 
