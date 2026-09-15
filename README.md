@@ -62,7 +62,7 @@ Universidad Tecnológica Nacional (UTN) – Facultad Regional Resistencia
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasRolonSoto&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasRolonSoto&layout=compact&langs_count=8&theme=blue-green)
 
 </div>
 <div align="center">
