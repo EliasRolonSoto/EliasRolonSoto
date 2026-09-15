@@ -62,15 +62,7 @@ Universidad Tecnológica Nacional (UTN) – Facultad Regional Resistencia
 
 <div align="center">
 
-<img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=EliasRolonSoto&show_icons=true" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=EliasRolonSoto" height="180" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=EliasRolonSoto" height="180" alt="GitHub Streak" />
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
